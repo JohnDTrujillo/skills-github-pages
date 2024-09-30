@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+UCONN PHYS 2200: Welcome to my blog
 ---
-## UCONN Phys 2200 
+## Fall 2024 
