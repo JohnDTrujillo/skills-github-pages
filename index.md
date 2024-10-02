@@ -1,4 +1,4 @@
 ---
-UCONN PHYS 2200: Welcome to my blog
+Hello Professor!
 ---
-## Fall 2024 
+## This is my second post on my Github Page 
